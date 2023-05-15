@@ -10,8 +10,8 @@ The project is divided into 6 Parts:
 ### 1) Data Collection and Cleaning: 
 In this part, we collected 4 datasets to be used in the project. Thereadter, we cleaned them as to make them having descriptive column/variable names and numerically-encoded categories replaced by their descriptive string in the analysis outputs and plots.
 
-   * The national crime victimization survey [(NCVS)](https://bjs.ojp.gov/national-crime-victimization-survey-ncvs-api#zjwnq9)
-   * [NIBRS](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) Reported offense count data.
+   * [The national crime victimization survey (NCVS)](https://bjs.ojp.gov/national-crime-victimization-survey-ncvs-api#zjwnq9)
+   * [NIBRS Reported offense count data](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)
    * [Recidivism data for the state of Georgia [2013-2015]](https://data.ojp.usdoj.gov/Courts/NIJ-s-Recidivism-Challenge-Full-Dataset/ynf5-u8nk)
    * [Firearm laws per state](https://www.statefirearmlaws.org/resources)
 
