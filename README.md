@@ -1,7 +1,7 @@
 # Analyzing-US-Crime-Data
 *Project of the Statistical Inference and Data Analysis Course Offered in Fall 2022 @ Zewail City*
 
-In this project we used the publicly available crime data offered by the [Federal Bureau of Investigation](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and information/ucr/publications) (FBI) and the [Bureau of Justice Statistics](https://bjs.ojp.gov/data-collection/ncvs) (BJS) to analyze the patterns of crime in the U.S across time, regions, and demographics.
+In this project we used the publicly available crime data offered by the [Federal Bureau of Investigation](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/publications) (FBI) and the [Bureau of Justice Statistics](https://bjs.ojp.gov/data-collection/ncvs) (BJS) to analyze the patterns of crime in the U.S across time, regions, and demographics.
 
 ## Project Parts:
 
