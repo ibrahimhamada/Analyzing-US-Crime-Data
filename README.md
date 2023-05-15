@@ -62,10 +62,14 @@ In this part, we train a machine learning classifier to predict the likelihood o
 ## Notebooks:
 
    1)[`Notebook1.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Notebook1.ipynb): This notebook is responsible for dealing with [The national crime victimization survey (NCVS)](https://bjs.ojp.gov/national-crime-victimization-survey-ncvs-api#zjwnq9) dataset to answer some of the questions in Part 3.
+   
    2)[`Notebook2.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Notebook2.ipynb): This notebook is responsible for dealing with [NIBRS Reported offense count data](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) dataset to answer some of the questions in Part 3.
+   
    3)[`Notebook3.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Notebook3.ipynb): This notebook is responsible for dealing with [Recidivism data for the state of Georgia [2013-2015]](https://data.ojp.usdoj.gov/Courts/NIJ-s-Recidivism-Challenge-Full-Dataset/ynf5-u8nk) dataset. It includes the implmentation of the Regression Analysis in Part 5 and Machine Learning Model in Part 6. Moreover, it answers some questions from Part 3.
+   
    4)[`Notebook4.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Notebook4.ipynb): This notebook is responsible for dealing with [Firearm laws per state](https://www.statefirearmlaws.org/resources) and [Recidivism data for the state of Georgia [2013-2015]](https://data.ojp.usdoj.gov/Courts/NIJ-s-Recidivism-Challenge-Full-Dataset/ynf5-u8nk) datasets to conduct the Hypothesis Testing in Part 4.
-   5)[`Statistics_Final_Project.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Statistics_Final_Project.ipynb): This Notebook combines the 4 Notebooks in one version for the whole project.
+  
+  5)[`Statistics_Final_Project.ipynb`](https://github.com/ibrahimhamada/Analyzing-US-Crime-Data/blob/main/Statistics_Final_Project.ipynb): This Notebook combines the 4 Notebooks in one version for the whole project.
 
 
 
