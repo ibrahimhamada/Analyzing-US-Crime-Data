@@ -38,8 +38,8 @@ questions:
 
 ### 4) Hypothesis Testing:
 
-     Claim 1: “U.S. states that implement stricter firearm control laws, have lower violent crime rates on average”
-     Claim2: Black people are assigned a high risk score compared to white people.
+   * Claim 1: “U.S. states that implement stricter firearm control laws, have lower violent crime rates on average”
+   * Claim2: “Black people are assigned a high risk score compared to white people”
       
 In this part, we formulated a hypothesis test to assess the validity of these 2 claims given the available data.
 
